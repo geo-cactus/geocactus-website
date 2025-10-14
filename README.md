@@ -6,7 +6,7 @@
 * Warm and organic, but with a modern edge
 * Readable and balanced — no harsh contrasts
 
-### Color Palette
+### 🏜️ Color Palette
 
 | Purpose                              | Hex Code    | Notes                                                                                              |
 | ------------------------------------ | ----------- | -------------------------------------------------------------------------------------------------- |
